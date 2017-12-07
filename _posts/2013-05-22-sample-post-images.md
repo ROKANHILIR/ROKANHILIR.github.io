@@ -11,7 +11,7 @@ KALIMAT KALIMAT NKBHJBHGJKJKHJKJGH
 
 
 <figure>
-	<a href="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuS06zk8K6u-mrocNKeapcp1IXBzYq-Je9GYJ1REqFDU6EZ42m"><img src="http://farm9.staticflickr.com/8426/7758832526_cc8f681e48_c.jpg"></a>
+	<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuS06zk8K6u-mrocNKeapcp1IXBzYq-Je9GYJ1REqFDU6EZ42m"></a>
 	<figcaption><a href="http://www.flickr.com/photos/80901381@N04/7758832526/" title="Morning Fog Emerging From Trees by A Guy Taking Pictures, on Flickr">Morning Fog Emerging From Trees by A Guy Taking Pictures, on Flickr</a>.</figcaption>
 </figure>
 
