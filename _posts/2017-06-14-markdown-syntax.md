@@ -13,79 +13,22 @@ tag:
 
 ## Pulau Jemur Di Rokan Hilir
 
-Below is just about everything you'll need to style in the theme. Check the source code to see the many embedded elements within paragraphs.
 
 
 
 
 
-Lorem ipsum dolor sit amet, test link adipiscing elit. **This is strong**. Nullam dignissim convallis est. Quisque aliquam.
+
 
 ![jekyll Image](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvcY-UjOyvVZpBf-poHGAP7w1aPRiHplpskh1DksXUWeIk7rRWPA)
-{: .image-pull-right}
 
-*This is emphasized*. Donec faucibus. Nunc iaculis suscipit dui. 53 = 125. Water is H2O. Nam sit amet sem. Aliquam libero nisi, imperdiet at, tincidunt nec, gravida vehicula, nisl. The New York Times (That’s a citation). Underline.Maecenas ornare tortor. Donec sed tellus eget sapien fringilla nonummy. Mauris a ante. Suspendisse quam sem, consequat at, commodo vitae, feugiat in, nunc. Morbi imperdiet augue quis tellus.
 
-HTML and CSS are our tools. Mauris a ante. Suspendisse quam sem, consequat at, commodo vitae, feugiat in, nunc. Morbi imperdiet augue quis tellus. Praesent mattis, massa quis luctus fermentum, turpis mi volutpat justo, eu volutpat enim diam eget metus.
+Pulau Jemur (luas 250 ha) adalah sebuah pulau milik Indonesia yang terletak di Selat Malaka, dekat dengan perbatasan Malaysia. Pulau ini termasuk dalam wilayah Kecamatan Pasir Limau Kapas, Kabupaten Rokan Hilir, Provinsi Riau. Letaknya sekitar 72,4 km dari Bagansiapiapi dan 64,3 km dari Pelabuhan Klang di Malaysia. Pulau ini merupakan pulau terluas dari Kepulauan Arwah, gugusan sembilan pulau, di antaranya Pulau Jemur, Tokong Emas, Tokong Simbang dan Labuhan Bilik.
 
-### Blockquotes
+Pulau Jemur terkenal dengan panorama alam seperti pantai berpasir putih dan sebagai habitat penyu hijau. Perairan di sekitar pulau ini terkenal sebagai daerah penghasil ikan.
 
-> Lorem ipsum dolor sit amet, test link adipiscing elit. Nullam dignissim convallis est. Quisque aliquam.
+Pulau Jemur tidak berpenghuni dan hanya menjadi tempat persinggahan bagi nelayan yang sedang melaut. Sebuah pos TNI-AL didirikan di pulau ini untuk kepentingan pengamatan dan navigasi.
 
-## List Types
+Pulau ini sempat menjadi objek sentimen anti-Malaysia di Indonesia, setelah sejumlah media Indonesia pada bulan Agustus 2009 melaporkan bahwa Malaysia bermaksud mengelola Pulau Jemur sebagai tujuan wisata.[1] [2]melalui situs traveljournals.net.[3] Kepemilikan sah Pulau Jemur (dan gugusan Kepulauan Arwah) oleh Indonesia didasarkan atas sertifikat tanah yang dimiliki oleh Raja Siak. Ketegangan ini baru mereda setelah diketahui terdapat pulau bernama Pulau Jemor sebagai bagian dari Kesultanan Selangor
 
-### Ordered Lists
 
-1. Item one
-   1. sub item one
-   2. sub item two
-   3. sub item three
-2. Item two
-
-### Unordered Lists
-
-* Item one
-* Item two
-* Item three
-
-## Tables
-
-| Header1 | Header2 | Header3 |
-|:--------|:-------:|--------:|
-| cell1   | cell2   | cell3   |
-| cell4   | cell5   | cell6   |
-|----
-| cell1   | cell2   | cell3   |
-| cell4   | cell5   | cell6   |
-|=====
-| Foot1   | Foot2   | Foot3
-{: rules="groups"}
-
-## Code Snippets
-
-{% highlight css %}
-#container {
-  float: left;
-  margin: 0 -240px 0 0;
-  width: 100%;
-}
-{% endhighlight %}
-
-## Buttons
-
-Make any link standout more when applying the `.btn` class.
-
-{% highlight html %}
-<a href="#" class="btn btn-success">Success Button</a>
-{% endhighlight %}
-
-<div markdown="0"><a href="#" class="btn">Primary Button</a></div>
-<div markdown="0"><a href="#" class="btn btn-success">Success Button</a></div>
-<div markdown="0"><a href="#" class="btn btn-warning">Warning Button</a></div>
-<div markdown="0"><a href="#" class="btn btn-danger">Danger Button</a></div>
-<div markdown="0"><a href="#" class="btn btn-info">Info Button</a></div>
-
-## Notices
-
-**Watch out!** You can also add notices by appending `{: .notice}` to a paragraph.
-{: .notice}
