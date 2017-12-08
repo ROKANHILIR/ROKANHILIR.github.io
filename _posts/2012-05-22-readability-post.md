@@ -10,7 +10,7 @@ tags: [sample post, readability, test]
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2v9GnB7Ohyfbqfw8Se5ekWDhdL3i2OWlz1BS3SG9SRSoT3CJE">
 
 
----
+
 Jembatan Pedamaran adalah nama jembatan yang terletak di Kabupaten Rokan Hilir, Provinsi Riau, Indonesia. Jembatan Pedamaran merupakan jembatan kembar yang terdiri dari Jembatan Pedamaran I dan Jembatan Pedamaran II. Jembatan Pedamaran membentang di atas Sungai Rokan dari daerah Kecamatan Bangko menjangkau Pulau Pedamaran, Kecamatan Pekaitan. Jembatan ini telah berhasil memutus rentang jarak dan menjadi ikon pembangunan dengan membuka isolasi daerah yang sebelumnya terjadi di kecamatan-kecamatan seperti Pekaitan, Bangko Pusako, Pasir Limau Kapas, dan Kubu.[2]
 
 Pembangunan jembatan ini sudah dikerjakan sejak tahun 2006 hingga 2012 dan diresmikan pada tanggal 20 Juni 2016 oleh Bupati Rokan Hilir, H. Suyatno dan dihadiri langsung oleh Gubernur Riau, Arsyadjuliandi Rachman.[3]
