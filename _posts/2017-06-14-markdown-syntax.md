@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Markdown Syntax"
+title:  "PULAU JEMUR"
 date:   2016-03-15
 excerpt: "Just about everything you'll need to style in the theme: headings, paragraphs, blockquotes, tables, code blocks, and more."
 tag:
@@ -11,27 +11,17 @@ tag:
 - jekyll
 ---
 
-## HTML Elements
+## Pulau Jemur Di Rokan Hilir
 
 Below is just about everything you'll need to style in the theme. Check the source code to see the many embedded elements within paragraphs.
 
-# Heading 1
 
-## Heading 2
 
-### Heading 3
 
-#### Heading 4
-
-##### Heading 5
-
-###### Heading 6
-
-### Body text
 
 Lorem ipsum dolor sit amet, test link adipiscing elit. **This is strong**. Nullam dignissim convallis est. Quisque aliquam.
 
-![jekyll Image](http://dab1nmslvvntp.cloudfront.net/wp-content/uploads/2015/02/1424055625jekyll.png)
+![jekyll Image](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvcY-UjOyvVZpBf-poHGAP7w1aPRiHplpskh1DksXUWeIk7rRWPA)
 {: .image-pull-right}
 
 *This is emphasized*. Donec faucibus. Nunc iaculis suscipit dui. 53 = 125. Water is H2O. Nam sit amet sem. Aliquam libero nisi, imperdiet at, tincidunt nec, gravida vehicula, nisl. The New York Times (That’s a citation). Underline.Maecenas ornare tortor. Donec sed tellus eget sapien fringilla nonummy. Mauris a ante. Suspendisse quam sem, consequat at, commodo vitae, feugiat in, nunc. Morbi imperdiet augue quis tellus.
