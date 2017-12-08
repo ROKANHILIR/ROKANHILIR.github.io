@@ -5,7 +5,7 @@ date: 2012-05-22
 excerpt: "Mips ve assembly kodları giriş."
 tags: [sample post, readability, test]
 ---
-**Jembatan Pedamaran **
+**Jembatan Pedamaran**
 ===
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2v9GnB7Ohyfbqfw8Se5ekWDhdL3i2OWlz1BS3SG9SRSoT3CJE">
 
